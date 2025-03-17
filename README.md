@@ -7,12 +7,10 @@
 
 ###
 
-<h3 align="left">👨‍💻 Sobre Mim</h3>
-
-###
+<h3 align="left">👨‍💻 </h3>
 
 <p align="left">
-Desenvolvedor Full-Stack com ampla experiência em diversas tecnologias e frameworks. Apaixonado por criar soluções eficientes e inovadoras, sempre em busca de novos desafios e oportunidades de aprendizado.<br><br>
+Desenvolvedor focado em soluções eficientes e código limpo. Comprometido com aprendizado contínuo e excelência técnica.<br><br>
 - 💻 <strong>Tecnologias:</strong> C#, .NET, PHP, JavaScript, TypeScript<br>
 - 🌐 <strong>Frameworks:</strong> Laravel, Angular, React, Bootstrap, .NET Core, .NET MAUI<br>
 - 🗄️ <strong>Bancos de Dados:</strong> MySQL, SQL Server, MongoDB, PostgreSQL<br>
