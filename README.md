@@ -1,18 +1,9 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/edvaldoglima/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+
+
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=edvaldoglima23.edvaldoglima23&"  />
-</div>
-
-###
-
-<h1 align="center">Bem-vindo ao meu perfil!b👋</h1>
+<h1 align="center">Bem-vindo ao meu perfil!👋</h1>
 
 ###
 
@@ -48,8 +39,6 @@ Desenvolvedor Full-Stack com ampla experiência em diversas tecnologias e framew
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
